@@ -3,4 +3,10 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="strengthLevel0">#EBECE9</color>
+    <color name="strengthLevel1">#A5B199</color>
+    <color name="strengthLevel2">#71855D</color>
+    <color name="strengthLevel3">#4E6735</color>
+    <color name="strengthLevel4">#3D5921</color>
 </resources>

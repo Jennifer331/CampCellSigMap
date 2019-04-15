@@ -1,4 +1,29 @@
 <resources>
     <string name="app_name">CampCellSigMap</string>
     <string name="action_settings">Settings</string>
+
+    <string name="hello_trip_fragment">Hello trip fragment1</string>
+
+    <string name="hello_site_fragment">Hello site fragment</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="trip_function_name">Trip</string>
+    <string name="site_function_name">Site</string>
+
+    <string name="trip_tip">Mapping will only run while the map trip screen is visible. Navigating away will automatically pause the mapping process.</string>
+    <string name="site_tip">Collecting will only run while the site screen is visible. Navigating away will automatically pause the collecting process.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="trip_filename_input_hint">Name your trip!</string>
+    <string name="site_filename_input_hint">Name the place</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">OK</string>
+
+    <string name="trip_pref_key">trip_pref</string>
+    <string name="site_pref_key">site_pref</string>
+
+    <string name="level">Level</string>
+    <string name="rsrp">RSRP</string>
+    <string name="asu">ASU</string>
 </resources>

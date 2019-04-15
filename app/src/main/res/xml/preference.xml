@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:defaultValue="500"
+        android:key="trip_pref"
+        android:singleLine="true"
+        android:title="Trip Record Sampling Interval(ms)" />
+    <EditTextPreference
+        android:defaultValue="60000"
+        android:key="site_pref"
+        android:singleLine="true"
+        android:title="Site Record Sampling Interval(ms)" />
+</PreferenceScreen>
